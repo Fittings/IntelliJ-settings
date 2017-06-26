@@ -1,7 +1,7 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="1.8" />
+      <name value="JDK" />
       <type value="JavaSDK" />
       <version value="java version &quot;1.8.0_112-release&quot;" />
       <homePath value="$APPLICATION_HOME_DIR$/jre" />
@@ -44,6 +44,7 @@
     <jdk version="2">
       <name value="Android API 25 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_112-release&quot;" />
       <homePath value="C:\Users\Cameron\AppData\Local\Android\Sdk" />
       <roots>
         <annotationsPath>
@@ -68,12 +69,11 @@
           </root>
         </sourcePath>
       </roots>
-      <additional jdk="1.8" sdk="android-25" />
+      <additional jdk="JDK" sdk="android-25" />
     </jdk>
     <jdk version="2">
       <name value="Android API 26 Platform" />
       <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_112-release&quot;" />
       <homePath value="C:\Users\Cameron\AppData\Local\Android\Sdk" />
       <roots>
         <annotationsPath>
@@ -96,7 +96,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional jdk="1.8" sdk="android-26" />
+      <additional jdk="JDK" sdk="android-26" />
     </jdk>
   </component>
 </application>
