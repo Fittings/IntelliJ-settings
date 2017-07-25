@@ -61,8 +61,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f18300" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="BACKGROUND" value="621d01" />
       </value>
     </option>
     <option name="Block comment">
@@ -410,6 +409,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="f18300" />
       </value>
     </option>
